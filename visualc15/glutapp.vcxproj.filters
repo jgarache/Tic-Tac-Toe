@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\App.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="..\app_main.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GlutApp.cpp">
+      <Filter>GlutApp</Filter>
+    </ClCompile>
+    <ClCompile Include="rectangle.cpp">
+      <Filter>Rectangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape.cpp">
+      <Filter>Shape</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\App.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GlutApp.h">
+      <Filter>GlutApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Shape</Filter>
+    </ClInclude>
+    <ClInclude Include="rectangle.h">
+      <Filter>Rectangle</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="App">
+      <UniqueIdentifier>{0d08dfd8-5a4f-451f-9eb9-2d4f073f720a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GlutApp">
+      <UniqueIdentifier>{37096cfa-3030-4696-8bdd-f690ab0598f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rectangle">
+      <UniqueIdentifier>{2f845a7a-28b0-4fa1-a9eb-b1ef05839d18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shape">
+      <UniqueIdentifier>{ee9397cc-85d3-42a8-9cd4-5ec802c01318}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

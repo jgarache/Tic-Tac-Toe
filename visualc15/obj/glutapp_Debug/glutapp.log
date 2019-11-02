@@ -1,0 +1,40 @@
+﻿  App.cpp
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(44,86): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(45,82): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(46,81): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(48,82): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(49,77): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(50,76): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(52,82): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(53,78): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(54,77): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(92,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(93,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(96,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(97,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(100,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(101,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(104,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(105,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(147,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(147,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(149,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(149,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(152,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(152,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(153,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(153,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(164,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(164,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(293,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(306,24): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(311,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(311,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(339,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(342,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(342,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\tic tac toe\ticTacToe2.0\App.cpp(369,22): warning C4018: '<': signed/unsigned mismatch
+  glutapp.vcxproj -> D:\Programming\tic tac toe\ticTacToe2.0\visualc15\obj\glutapp_Debug\glutapp.exe
